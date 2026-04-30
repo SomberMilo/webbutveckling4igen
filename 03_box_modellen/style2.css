@@ -1,0 +1,18 @@
+header{
+    background: url(images/1920px-ASO_Art_Mural.png);
+    padding: 200px;
+    background-size: cover;
+}
+nav a{
+    display: inline-block;
+    background-color: coral;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px;
+    font: georgia;
+    font-size: 20px;
+    font-weight:bold;
+}
+nav{
+    background-color: coral;
+}

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+section{
+    background: hotpink;
+    padding: 10px;
+    margin: 3px;
+}
+body{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "A B C"
+    "D A A"
+    "E A A"
+    ;
+    
+}
+
+#a{
+grid-area: A;
+}
+#b{
+grid-area: B;
+}
+#c{
+grid-area: C;
+}
+#d{
+grid-area: D;
+}
+#e{
+grid-area: E;
+}
+/* #f{
+grid-area:milo5;
+} */

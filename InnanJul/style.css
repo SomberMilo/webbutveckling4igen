@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    background-color: black;
+    color: white;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    font-family: "Comic Relief", system-ui;
+}

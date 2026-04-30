@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boxmodellen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <p></p>
+    </header>
+    <nav>
+        <a href="#">Products</a> <a href="#">About us</a> <a href="#">Contact us</a>
+    </nav>
+    <main>
+        <h1>Glassmästaren</h1>
+        <h2>Malmös bästa glass</h2>
+        <p>Vi är mycket stolta över våra glassar Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia excepturi vero unde fugit. Assumenda dolores voluptatum optio iure consequuntur porro. Temporibus iusto dolor cumque magni architecto natus quae voluptatibus.</p>
+        <img src="images/Catglass.jpg" alt="Kattglass" id="Ice">
+    </main>
+    <footer>
+        <p>Copyright &copy; 2025 Milo Mathiasen Vizvari</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+header{
+    background: url("images/scoops.jpg");
+    padding: 100px;
+    background-size: cover;
+}
+
+nav{
+    background: cadetblue;
+}
+
+nav a{
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    color: white;
+}
+
+nav a:hover{
+    background-color: white;
+    color: cadetblue;
+}
+
+body{
+    margin: 0;
+}
+
+main{
+    padding-left: 10px;
+
+}
+
+h1{
+    font: 30px verdana;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#Ice{
+    width: 35%;
+}

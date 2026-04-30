@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+
+@media screen and (min-width: 480px){
+body{
+    background: yellow;
+    #wrapper{display: flex;}
+}
+}
+header{
+    background: red;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+section{
+    background:white;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    background: darkred;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+#Pancakes{
+    width: 100%;
+}
+

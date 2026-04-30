@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.gooncave {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; 
+  padding: 20px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+section {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(255, 208, 0);
+  color: white;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
